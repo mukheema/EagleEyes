@@ -1,2 +1,2 @@
-# projEagleEye
-EagleEye to monitor
+# EagleEyes
+EagleEyes to learn and update skills
